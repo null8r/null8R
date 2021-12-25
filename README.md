@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to My Profile 👋
+I'm null, a Japanese school student.
 
-<!--
-**88101hayato/88101hayato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Twitter(@null8R)](https://twitter.com/null8R)
 
-Here are some ideas to get you started:
+## Love 
+- Rushia🦋 [Twitter(@uruharushia)](https://twitter.com/uruharushia) / [YouTube(Rushia Ch.)](https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ)
+- hololive
+- Cats😻
+- SONY
+- Xperia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub readme stats
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null8R&layout=default&theme=aura" />
+<img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=null8R&show_icons=true&theme=aura" />
