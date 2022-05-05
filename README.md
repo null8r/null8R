@@ -1,10 +1,14 @@
 # Welcome to My Profile 👋
-I'm null, a Japanese school student.
+Hello! I'm null.
 
-[Twitter(@null8R)](https://twitter.com/null8R)
+I Love VTubers!
 
-## Love 
-- Rushia🦋 [Twitter(@uruharushia)](https://twitter.com/uruharushia) / [YouTube(Rushia Ch.)](https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ)
+[My Website (null8R.github.io)](https://null8R.github.io)
+
+[Twitter (@null8R)](https://twitter.com/null8R)
+
+## Love ♥️
+- Rushia🦋 [Twitter (@uruharushia)](https://twitter.com/uruharushia) / [YouTube (Rushia Ch.)](https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ)
 - hololive
 - Cats😻
 - SONY
