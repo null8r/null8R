@@ -1,4 +1,4 @@
-# Welcome to My Profile 👋
+# Welcome to My GitHub 👋
 Hello! I'm null.
 
 I Love VTubers!
@@ -9,7 +9,6 @@ I Love VTubers!
 
 ## Love ♥️
 - Rushia🦋 [Twitter (@uruharushia)](https://twitter.com/uruharushia) / [YouTube (Rushia Ch.)](https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ)
-- hololive
 - Cats😻
 - SONY
 - Xperia
