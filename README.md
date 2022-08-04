@@ -15,4 +15,4 @@ I Love VTubers!
 
 ## GitHub readme stats
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null8R&layout=default&theme=aura" />
-<img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=null8R&show_icons=true&theme=aura" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=null8r&theme=github_dark" />
