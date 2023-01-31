@@ -9,6 +9,7 @@ Hello! I'm null.
 - Rushia🦋 [Twitter (@uruharushia)](https://twitter.com/uruharushia) / [YouTube (Rushia Ch.)](https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ)
 - Blue Archive
 - Azur Lane
+- Neural Cloud
 - Arknight
 - Cats😻
 - SONY
